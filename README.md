@@ -1,5 +1,7 @@
 # PVS-Codiacs
 
+Problem Statement - We are creating an interface for a peer teaching system that can be implemented in colleges. This aims at helping students who have not understood a particular concept of any subject completely. The user will fill in the details of the subject that he/she wishes to study and their time convenience
+
 //12 am
 Peer.java basically collecting the data. So the various users are entering their information like their Designation (Teacher or Student),
 subject in which they need help or want to teach, which day they are free etc.
