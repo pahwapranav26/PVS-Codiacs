@@ -12,3 +12,6 @@ The changes which have been done in the code are that now if the user finds more
 
 //8am
 Exception Handling and a few more cases added in the processes in the previous code
+
+//final submission
+In the final code, we have added a feature for the user to choose whether he/she wants to study from a faculty member or they are comfortable with studying from their peers
