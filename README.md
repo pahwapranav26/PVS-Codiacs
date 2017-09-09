@@ -7,3 +7,6 @@ Peer_.java helps the user by doing the processing by checking all the conditions
 
 //4 am
 The changes which have been done in the code are that now if the user finds more than one peer than he can select from them and the meeting will be fixed with the selected peer. The code takes care of some simple exceptions.
+
+//8am
+Exception Handling and a few more cases added in the processes in the previous code
